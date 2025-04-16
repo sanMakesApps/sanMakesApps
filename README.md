@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **Web developer by day. Web developer by night. Basically Batman, but with more semicolons and fewer gadgets.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
