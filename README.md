@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thapasanskar017@gmail.com**
 
-- ⚡ Fun fact **I have the rare superpower of moving each ear independently (yes, like a cartoon character) and can wiggle my eyeballs too—party tricks unlocked. As for hobbies, I’m either scaling mountains, diving into lakes, and living that full-on outdoorsy life… or I’m a professional couch potato, snuggled up in blanket mode with snacks. There’s no in-between—and I love it that way**
+- ⚡ Fun fact **Web developer by day. Web developer by night. Basically Batman, but with more semicolons and fewer gadgets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
